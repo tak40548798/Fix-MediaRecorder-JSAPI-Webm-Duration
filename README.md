@@ -1,5 +1,5 @@
-
-## 修正 Webm 檔案丟失時間進度的問題
+## 留紀錄
+## 修正 Webm 檔案丟失時間進度的問題 
 
 Javascript MediaStream Recording API 所錄製產生的影片會遺失時間進度
 
